@@ -1,0 +1,15 @@
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Практическая\Практическая\bin\Debug\net6.0\Практическая.exe
+C:\Users\LEGION\source\repos\Практическая\Практическая\bin\Debug\net6.0\Практическая.deps.json
+C:\Users\LEGION\source\repos\Практическая\Практическая\bin\Debug\net6.0\Практическая.runtimeconfig.json
+C:\Users\LEGION\source\repos\Практическая\Практическая\bin\Debug\net6.0\Практическая.dll
+C:\Users\LEGION\source\repos\Практическая\Практическая\bin\Debug\net6.0\Практическая.pdb
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.dll
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\refint\Практическая.dll
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.pdb
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\Практическая.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Практическая\Практическая\obj\Debug\net6.0\ref\Практическая.dll
