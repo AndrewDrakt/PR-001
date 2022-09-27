@@ -41,14 +41,20 @@ do
             Console.WriteLine(nm11);
             break;
         case 7:
+            int sot = 100;
             Console.WriteLine("Напишите число");
-            int nm12 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(nm12 % 1);
+            float nm12 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(nm12 / sot);
             break;
         case 8:
             Console.WriteLine("Напишите число");
-            int nm13 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Факториал числа неизвестен");
+            int result = 1;
+            int fact = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= fact; i++)
+            {
+                result = result * i;
+            }
+            Console.WriteLine(result);
             break;
         case 9:
             Console.WriteLine("Завершение программы.");
